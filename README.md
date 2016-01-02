@@ -1,4 +1,4 @@
-# fighter-database
+# Fighter Database
 
 This is a mock UFC fighter database made for Oregon State's Spring 2015 Databases course. 
 
